@@ -1,7 +1,7 @@
 version: 0.1
 os: linux
 files:
-  - source: target/simple-web-app.war
+  - source: simple-web-app.war
     destination: /usr/share/tomcat7/webapps
 hooks:
   ApplicationStart:
