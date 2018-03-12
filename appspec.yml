@@ -1,9 +1,13 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /tmp
     destination: /opt/bitnami/apache-tomcat/webapps
 hooks:
+  BeforeInstall:
+    - location: startup.sh
+      timeout: 180
+      runas: root
   ApplicationStart:
     - location: restart.sh    
       timeout: 180
