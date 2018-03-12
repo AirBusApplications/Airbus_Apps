@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /tmp
+  - source: /tmp/target/simple-web-app.war
     destination: /opt/bitnami/apache-tomcat/webapps
 hooks:
   BeforeInstall:
