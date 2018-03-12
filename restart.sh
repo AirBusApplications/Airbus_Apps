@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo service tomcat7 restart
+/opt/bitnami/apache-tomcat/bin/shutdown.sh
+/opt/bitnami/apache-tomcat/bin/startup.sh
