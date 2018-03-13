@@ -4,9 +4,7 @@ files:
   - source: /tmp/target/simple-web-app.war
     destination: /opt/bitnami/apache-tomcat/webapps
 hooks:
-  BeforeInstall:
-    - location: startup.sh
-  ApplicationStart:
+    ApplicationStart:
     - location: restart.sh    
       timeout: 180
       runas: root
