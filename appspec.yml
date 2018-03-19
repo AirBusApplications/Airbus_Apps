@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: ./simple-web-app.war
-    destination: /opt/bitnami/apache-tomcat/webapps
+  - source: target/simple-web-app.war
+    destination: /tmp
