@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				WELCOME TO AWS
+				WELCOME TO Amazon WEb Services [AWS]
 			</h1>
 		
 			<div>
