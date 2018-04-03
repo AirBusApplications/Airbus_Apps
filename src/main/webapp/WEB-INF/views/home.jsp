@@ -7,11 +7,13 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-
-			<h1>
+			
+		<body bgcolor="red">
+			<h1>	
 				WELCOME TO AWS Cloud Computing Service!!! 
+				
 			</h1>
-		
+		</body>
 			<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
