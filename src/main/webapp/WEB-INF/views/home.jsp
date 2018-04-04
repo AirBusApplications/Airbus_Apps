@@ -8,7 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">		
 			<h1>	
-				==oo WELCOME TO AWS Cloud Computing Service ==oo	
+				!!!1 WELCOME TO AWS Cloud Computing Service !!!!
 			</h1>
 			<div>
 				<p class="well">
