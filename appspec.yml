@@ -3,9 +3,13 @@ os: linux
 files:
   - source: target/simple-web-app.war
     destination: /opt/bitnami/apache-tomcat/webapps
-
 hooks:
-  ApplicationStart:
-    - location: restart.sh
+  BeforeInstall:
+    - location: stop.sh
       timeout: 300
+  ApplicationStart:
+    - location: start.sh
+      timeout: 300
+      
+ 
 
