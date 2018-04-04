@@ -6,14 +6,10 @@
 <o:topbar pageName="Home"/>
 <div class="container-fluid main">
 	<div class="row-fluid">
-		<div class="span10 offset1">
-			
-		<body bgcolor="red">
+		<div class="span10 offset1">		
 			<h1>	
-				WELCOME TO AWS Cloud Computing Service!!! 
-				
+				|||!!!||| WELCOME TO AWS Cloud Computing Service ||!!!||				
 			</h1>
-		</body>
 			<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
