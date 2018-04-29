@@ -8,7 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">		
 			<h1>	
-				||--Pavan has started this build||
+				||PAvan Restarted||
 			</h1>
 			<div>
 				<p class="well">
