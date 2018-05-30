@@ -8,7 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">		
 			<h1>	
-				||PAvan Restarted||
+				||This is our Jenkins job||
 			</h1>
 			<div>
 				<p class="well">
