@@ -8,7 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">		
 			<h1>	
-				||This is our Jenkins job||
+				||This is deployed using the Jenkins Job ||
 			</h1>
 			<div>
 				<p class="well">
