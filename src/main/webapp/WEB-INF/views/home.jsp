@@ -8,7 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">		
 			<h1>	
-				||Jenkins is used for Automation||
+				||Jenkins is used for Automation--Testing||
 			</h1>
 			<div>
 				<p class="well">
